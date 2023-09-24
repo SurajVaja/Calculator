@@ -39,7 +39,7 @@ input::-webkit-inner-spin-button {
 }
 
 .btn{
-    /* border: 1px solid red; */
+    border: 1px solid red;
     border-radius: 35px;
     color: skyblue;
     font-size: 25px;
